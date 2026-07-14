@@ -1,0 +1,19 @@
+{
+  "modifiers": [
+    {
+      "token": "நறு",
+      "meaning": "fragrant",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "மா",
+      "meaning": "great",
+      "behavior": "doubles_consonant"
+    },
+    {
+      "token": "மழ",
+      "meaning": "infantile",
+      "behavior": "vowel_glide"
+    }
+  ]
+}

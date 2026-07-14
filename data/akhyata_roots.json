@@ -1,0 +1,28 @@
+{
+  "verbs": [
+    {
+      "root": "ஊடு",
+      "meaning": "to sulk in love",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "அறு",
+      "meaning": "to cut or define",
+      "class": "strong",
+      "past_marker": "த்த்"
+    },
+    {
+      "root": "நட",
+      "meaning": "to walk",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "தொடு",
+      "meaning": "to touch",
+      "class": "weak",
+      "past_marker": "த்"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "base": "மரம்",
+      "meaning": "tree",
+      "is_primitive": true
+    },
+    {
+      "base": "வானம்",
+      "meaning": "sky",
+      "is_primitive": true
+    },
+    {
+      "base": "திங்கள்",
+      "meaning": "moon or month",
+      "is_primitive": false
+    },
+    {
+      "base": "முகை",
+      "meaning": "flower bud",
+      "is_primitive": true
+    }
+  ]
+}

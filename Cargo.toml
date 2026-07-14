@@ -1,9 +1,6 @@
-[package]
-name = "tamil_sandhi_engine"
-version = "0.1.0"
-edition = "2024"
-authors = ["Yuva Athur"]
-description = "A structural Sentamil Sandhi decomposition and Nirukta classification engine"
-
-[dependencies]
-unicode-segmentation = "1.11.0"
+[workspace]
+members = [
+    "preprocess",
+    "sandhi_engine"
+]
+resolver = "2"
