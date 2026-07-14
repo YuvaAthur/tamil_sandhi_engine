@@ -2,25 +2,121 @@
   "verbs": [
     {
       "root": "ஊடு",
-      "meaning": "to sulk in love",
+      "meaning": "to sulk / feign romantic anger",
       "class": "weak",
       "past_marker": "த்"
     },
     {
       "root": "அறு",
-      "meaning": "to cut or define",
+      "meaning": "to cut / define / terminate",
       "class": "strong",
-      "past_marker": "த்த்"
+      "past_marker": "ത്ത்"
     },
     {
       "root": "நட",
-      "meaning": "to walk",
+      "meaning": "to walk / proceed / happen",
       "class": "weak",
       "past_marker": "த்"
     },
     {
       "root": "தொடு",
-      "meaning": "to touch",
+      "meaning": "to touch / connect / initiate",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "படி",
+      "meaning": "to read / study / align",
+      "class": "strong",
+      "past_marker": "ത്ത்"
+    },
+    {
+      "root": "எழுது",
+      "meaning": "to write / sketch / inscribe",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "காண்",
+      "meaning": "to see / observe / discover",
+      "class": "irregular",
+      "past_marker": "ந்த்"
+    },
+    {
+      "root": "செய்",
+      "meaning": "to do / manufacture / execute",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "பேசு",
+      "meaning": "to speak / talk / declare",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "அறி",
+      "meaning": "to know / perceive / comprehend",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "ஆள்",
+      "meaning": "to rule / govern / command",
+      "class": "strong",
+      "past_marker": "ത്ത்"
+    },
+    {
+      "root": "உண்",
+      "meaning": "to eat / consume / absorb",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "கேள்",
+      "meaning": "to hear / ask / listen",
+      "class": "strong",
+      "past_marker": "ത്ത்"
+    },
+    {
+      "root": "நில்",
+      "meaning": "to stand / stop / remain",
+      "class": "irregular",
+      "past_marker": "ந்த்"
+    },
+    {
+      "root": "வா",
+      "meaning": "to come / arrive",
+      "class": "irregular",
+      "past_marker": "ந்த்"
+    },
+    {
+      "root": "அமிரு",
+      "meaning": "to settle down / occupy space",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "இயங்கு",
+      "meaning": "to operate / function / move along",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "உறை",
+      "meaning": "to reside / stay fixed / freeze",
+      "class": "strong",
+      "past_marker": "ത്ത்"
+    },
+    {
+      "root": "கூறு",
+      "meaning": "to say / announce / divide",
+      "class": "weak",
+      "past_marker": "த்"
+    },
+    {
+      "root": "நவின்ற",
+      "meaning": "to utter / praise eloquently",
       "class": "weak",
       "past_marker": "த்"
     }

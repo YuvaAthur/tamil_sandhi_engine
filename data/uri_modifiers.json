@@ -2,18 +2,53 @@
   "modifiers": [
     {
       "token": "நறு",
-      "meaning": "fragrant",
+      "meaning": "fragrant / pleasant aroma",
       "behavior": "direct_attachment"
     },
     {
       "token": "மா",
-      "meaning": "great",
+      "meaning": "great / immense / majestic",
       "behavior": "doubles_consonant"
     },
     {
       "token": "மழ",
-      "meaning": "infantile",
+      "meaning": "infantile / tender / youthful",
       "behavior": "vowel_glide"
+    },
+    {
+      "token": "கடி",
+      "meaning": "sharp / protective / rapid acceleration",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "உறு",
+      "meaning": "abundant / heavy density / intense",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "தவ",
+      "meaning": "highly elevated / supreme scale",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "நனி",
+      "meaning": "excessive / very much / multiplied",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "சால",
+      "meaning": "fully adequate / highly abundant",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "கூர்",
+      "meaning": "razor sharp / highly focused",
+      "behavior": "direct_attachment"
+    },
+    {
+      "token": "மாசு",
+      "meaning": "dark / flawed / covered",
+      "behavior": "vowel_elision"
     }
   ]
 }

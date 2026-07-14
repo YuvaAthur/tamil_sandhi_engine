@@ -2,22 +2,102 @@
   "nouns": [
     {
       "base": "மரம்",
-      "meaning": "tree",
+      "meaning": "tree / wood structure",
       "is_primitive": true
     },
     {
       "base": "வானம்",
-      "meaning": "sky",
+      "meaning": "sky / celestial firmament",
       "is_primitive": true
     },
     {
       "base": "திங்கள்",
-      "meaning": "moon or month",
+      "meaning": "moon / calendar month cycle",
       "is_primitive": false
     },
     {
       "base": "முகை",
-      "meaning": "flower bud",
+      "meaning": "fragrant flower bud",
+      "is_primitive": true
+    },
+    {
+      "base": "அறம்",
+      "meaning": "righteousness / cosmic virtue / duty",
+      "is_primitive": false
+    },
+    {
+      "base": "ஊடல்",
+      "meaning": "playful lover's tiff / sulking",
+      "is_primitive": false
+    },
+    {
+      "base": "ஞாயிறு",
+      "meaning": "sun / solar star element",
+      "is_primitive": true
+    },
+    {
+      "base": "நீர்",
+      "meaning": "water / fluid substance",
+      "is_primitive": true
+    },
+    {
+      "base": "நிலம்",
+      "meaning": "land / earth / physical ground",
+      "is_primitive": true
+    },
+    {
+      "base": "நெருப்பு",
+      "meaning": "fire / heat energy",
+      "is_primitive": true
+    },
+    {
+      "base": "காற்று",
+      "meaning": "wind / air current",
+      "is_primitive": true
+    },
+    {
+      "base": "மழலை",
+      "meaning": "infant babbling / tender speech",
+      "is_primitive": false
+    },
+    {
+      "base": "குருதி",
+      "meaning": "blood / vital bodily fluid",
+      "is_primitive": true
+    },
+    {
+      "base": "தொடுவானம்",
+      "meaning": "horizon boundary line",
+      "is_primitive": false
+    },
+    {
+      "base": "நறுமுகை",
+      "meaning": "pristine blossoming bud",
+      "is_primitive": false
+    },
+    {
+      "base": "அரிவை",
+      "meaning": "young woman between ages 20 to 25",
+      "is_primitive": true
+    },
+    {
+      "base": "ஒண்பொருள்",
+      "meaning": "valuable wealth / luminous truth",
+      "is_primitive": false
+    },
+    {
+      "base": "கானகம்",
+      "meaning": "deep woodland forest ecosystem",
+      "is_primitive": true
+    },
+    {
+      "base": "வண்டு",
+      "meaning": "buzzing beetle / honeybee creature",
+      "is_primitive": true
+    },
+    {
+      "base": "வெற்பு",
+      "meaning": "rocky mountain ridge / hill crest",
       "is_primitive": true
     }
   ]
